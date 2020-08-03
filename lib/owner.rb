@@ -11,8 +11,8 @@ class Owner
     @@all << self
   end
   
-  def name
-    @name
+  def name_pet
+    @owner.name
   end 
 
   def self.all
