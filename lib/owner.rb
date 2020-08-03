@@ -71,8 +71,6 @@ human2 = Owner.new("human2")
 
 Owner.all
 
-human.buy_fish("bubbles")
-human.buy_fish("flounder")
 human.buy_cat("fluffy")
 human.buy_cat("whiskers")
 human.buy_dog("fido")
